@@ -27,6 +27,8 @@ public class Main {
 
 
 
+
+
       /*  MotoricVehicle m = new MotoricVehicle();
       try {
           m.go();
@@ -87,3 +89,4 @@ public class Main {
         System.out.println(a/b);
     }*/
 }
+
